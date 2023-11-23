@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,👋 I' m Dimitar Damianov 🧑🏻‍🦱
 
 <!--
 **dimitargb/dimitargb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  - 🔭 I’m currently a fresh Engineering Graduate from Software University - Softuni, Bulgaria in the field of JavaScript Web Development.
+  - 🌱 I have been mastering my skills through coursework in programming languages such as JavaScript, Node.js,Typescript.
+  -  📫 How to reach me: dimitardamianov2012@gamil.com; dimitardamianov@yahoo.com
+
+
+ 
+
+ 
+
