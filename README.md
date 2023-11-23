@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   - 🔭 I’m currently a fresh Engineering Graduate from Software University - Softuni, Bulgaria in the field of JavaScript Web Development.
   - 🌱 I have been mastering my skills through coursework in programming languages such as JavaScript, Node.js,Typescript.
-  -  📫 How to reach me: dimitardamianov2012@gamil.com; dimitardamianov@yahoo.com
+  -  📫 How to reach me: dimitardamianov2012@gamil.com; https://www.linkedin.com/in/dimitar-damianov-1499b22a0/
 
 
  
